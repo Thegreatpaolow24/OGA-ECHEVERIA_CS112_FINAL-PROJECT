@@ -2,7 +2,7 @@
 # This program performs basic arithmetic operations
 
 class Calculator:
-    # Class to encapsulate basic arithmetic operations
+    # Class for basic arithmetic operations
 
     def add(self, num1, num2):
         # Method to perform addition
